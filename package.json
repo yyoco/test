@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "description 2",
+  "description": "description 3",
   "main": "index.js",
   "scripts": {
     "dev": "mode=dev nodemon index.js",
